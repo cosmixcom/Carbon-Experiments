@@ -1,0 +1,13 @@
+{
+  "pages": [{
+    "name": "Home",
+    "doc": "index"
+  },
+  {
+    "name": "About",
+    "doc": "about"
+  }],
+  "logo": "carbon.png",
+  "action": "//carbon.toggled.tech",
+  "title": "Carbon Starter"
+}
