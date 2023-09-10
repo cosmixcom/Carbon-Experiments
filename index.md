@@ -1,5 +1,5 @@
-# Welcome to Carbon
+# Welcome to Carbon Experiments
 
-Thanks for choosing Carbon to make your site. We know there are a lot of choices so it means a lot!
+Find the latest experiments and other random Carbon content here.
 
 Find more info about Carbon on the [homepage](https://carbon.toggled.tech).
