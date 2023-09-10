@@ -4,10 +4,10 @@
     "doc": "index"
   },
   {
-    "name": "About",
-    "doc": "about"
+    "name": "Experiments",
+    "doc": "experiments"
   }],
   "logo": "carbon.png",
   "action": "//carbon.toggled.tech",
-  "title": "Carbon Starter"
+  "title": "Carbon Experiments"
 }
